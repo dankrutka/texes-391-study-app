@@ -43,7 +43,7 @@ const COMPETENCIES = [
 // REPLACE this URL with your own Google Form prefill link.
 // See the setup guide (Google-Form-Setup-Guide.docx) for instructions.
 // ─────────────────────────────────────────────────────────────
-const GOOGLE_FORM_BASE_URL = "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform";
+const GOOGLE_FORM_BASE_URL = "https://docs.google.com/forms/d/e/1FAIpQLSfhwLsETMBUv6MmX7gK7QQMKGOPjYqxJ0TD7FA6quDkWDowPA/viewform?usp=pp_url&entry.768468856=COMP_PLACEHOLDER&entry.1255786631=TOPIC_PLACEHOLDER&entry.1626143536=SECTION_PLACEHOLDER";
 
 // Field entry IDs from your Google Form — replace after creating the form.
 const FORM_FIELDS = {
