@@ -43,12 +43,12 @@ const COMPETENCIES = [
 // REPLACE this URL with your own Google Form prefill link.
 // See the setup guide (Google-Form-Setup-Guide.docx) for instructions.
 // ─────────────────────────────────────────────────────────────
-const GOOGLE_FORM_BASE_URL = "https://docs.google.com/forms/d/e/1FAIpQLSfhwLsETMBUv6MmX7gK7QQMKGOPjYqxJ0TD7FA6quDkWDowPA/viewform?usp=pp_url&entry.768468856=COMP_PLACEHOLDER&entry.1255786631=TOPIC_PLACEHOLDER&entry.1626143536=SECTION_PLACEHOLDER";
+const GOOGLE_FORM_BASE_URL = "https://docs.google.com/forms/d/e/1FAIpQLSfhwLsETMBUv6MmX7gK7QQMKGOPjYqxJ0TD7FA6quDkWDowPA/viewform";
 
 // Field entry IDs from your Google Form — replace after creating the form.
 const FORM_FIELDS = {
-  competency: "entry.111111111",   // "Competency" field
-  topic:      "entry.222222222",   // "Topic" field
+  competency: "entry.1255786631",   // "Competency" field
+  topic:      "entry.1626143536",   // "Topic" field
   section:    "entry.333333333",   // "Section" (Review / Quiz / Resources)
   detail:     "entry.444444444",   // "What seems incorrect?"
 };
